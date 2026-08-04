@@ -87,6 +87,16 @@ warranty  (claim_id PK, claim_date, sale_id FK, repair_status)
 
 ---
 
+## 🗂️ Entity Relationship Diagram (ERD)
+
+The following ERD illustrates the database schema used in this project, showing the relationships between all tables involved in the Apple Retail Store database.
+
+<p align="center">
+  <img src="./ERR Diagram.png" alt="Apple Retail Store ER Diagram" width="850">
+</p>
+
+---
+
 ## 📁 Project Structure
 
 ```
